@@ -4,3 +4,6 @@ h1, h2, h3 {
 .segment {
   fond-weight: bold;
 }
+br {
+  margin: 5px;
+}
