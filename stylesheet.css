@@ -11,3 +11,6 @@ br {
   font-size: 14;
   float: left;
 }
+#right_box {
+  float: right;
+}
