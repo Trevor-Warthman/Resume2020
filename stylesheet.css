@@ -8,6 +8,7 @@ h1, h2, h3 {
   font-size: 14;
   float: left;
   width: 50%;
+  display: grid;
 }
 #right_box {
   float: right;
