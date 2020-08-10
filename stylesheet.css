@@ -9,6 +9,7 @@ h1, h2, h3 {
   float: left;
   width: 50%;
   display: grid;
+  text-align: center;
 }
 #right_box {
   float: right;
