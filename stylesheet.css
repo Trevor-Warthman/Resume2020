@@ -10,6 +10,8 @@ h1, h2, h3 {
   width: 50%;
   display: grid;
   text-align: center;
+  vertical-align: center;
+  line-height: 30%;
 }
 #right_box {
   float: right;
